@@ -1,54 +1,5 @@
-
-// import
-@import 'global_variables';
-
-@import 'typography';
+// You sass style sheet
 
 html {
-  height: auto;
-  background-color: $background-color-light;
-}
-
-body {
-  width: 100%;
-  margin: 0;
-  overflow-x: hidden;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-}
-
-nav {
-  // fix it to the top?
-  text-align: center;
-  background-color: $main-accent-color;
-  
-  h1 {
-    color: white;
-  }
-}
-
-.main {
-  padding: 0 15px 4px 15px;
-
-  a {
-    color: $text-color-heavy;
-    text-decoration: none;
-  }
-}
-
-// .all-posts {
-// }
-
-.single-post {
-  margin: 20px 0;
-  .post-excerpt {
-    color: $text-color-normal;
-    margin: 0;
-    padding: 0;
-  }
-}
-
-.post-date {
-  display: none;
+  background-color: bisque;
 }

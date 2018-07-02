@@ -73,11 +73,11 @@ typings/
 .serverless
 
 ####################################################
-
 ## My additions
+####
 
 # where I make notes to myself
 notes.txt
 
-# the distributio code
+# the distribution code
 dist/
