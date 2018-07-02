@@ -1,4 +1,4 @@
-# Project Title
+# Simple WebPack 4 Template
 
 This is a template for getting a project started fast and clean with Webpack 4. It will minimize and compile your sass, html and js.
 
@@ -69,7 +69,7 @@ npm run build
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
